@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/QQ20250510-230527.png</file>
+        <file>resource/KchatClient.ico</file>
+        <file>resource/output.ico</file>
+        <file>resource/beijing.png</file>
+    </qresource>
+</RCC>
